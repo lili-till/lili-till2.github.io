@@ -1,1 +1,5 @@
-body {    background-color:mediumpurple}
+body {backgroung-color: mediumpurple;}
+h1 {
+  background-color: darksalmon;
+  color: darkblue;
+}
